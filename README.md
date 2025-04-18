@@ -7,5 +7,5 @@ Lista numerada
    4. subitem 2
 
 Lista de tarefas
-- [] Checklist 1
-- [] Checklist 2
+- [ ] Checklist 1
+- [ ] Checklist 2
